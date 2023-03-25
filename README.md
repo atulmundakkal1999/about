@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/atul_mundakkal" target="blank"><img src="https://img.shields.io/twitter/follow/atul_mundakkal?logo=twitter&style=for-the-badge" alt="atul_mundakkal" /></a> </p>
 
-- 🔭 I’m currently working at [Ekatra Infotech](Kochi,India)
+- 🔭 I’m currently working at [Ekatra Infotech](https://www.ekatrainfotech.com/)
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯Internship on Web Development [Crab Network](Kochi,India)
+- 👯Internship on Web Development at [Crab Network](https://crabnetworkllp.com/)
 
 - 🤝 I’m looking for help with **Web Development**
 
